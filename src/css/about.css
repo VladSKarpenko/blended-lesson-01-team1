@@ -1,1 +1,24 @@
 /* Сюди додавай стилі частинки About */
+.about-bg {
+    background: #1b414b;
+    width: 716px;
+    height: 424px;
+}
+
+.about-h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1;
+    letter-spacing: -0.05em;
+    color: #fbfbfb;
+}
+
+.about-p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    color: #b4b7ba;
+}
